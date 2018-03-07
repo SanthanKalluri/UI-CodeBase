@@ -1,0 +1,15 @@
+.investorContentConainer{
+    margin-left: 40px;
+    margin-top: 40px;
+    position: relative;
+    background: url(../../../images/5844.jpg) no-repeat;
+    background-size: 100%;
+    text-align: right;
+}
+
+.investorContent{
+    position: absolute;
+    left:1000px;
+    top:400px;
+}
+

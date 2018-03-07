@@ -1,0 +1,19 @@
+.App-title {
+    font-size: 1.5em;
+    font-family: 'Segoe UI','Helvetica Neue','Helvetica','Arial','sans-serif';
+    vertical-align: top;
+    padding: 20px;
+  }
+
+  .appBarButton{
+      border : none;
+      font-size:large;
+  }
+
+  button.appBarButton{
+      color: Blue;
+  }
+  a.appBarButton{
+      color: Red;
+  }
+  
