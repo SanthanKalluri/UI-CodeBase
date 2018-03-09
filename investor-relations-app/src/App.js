@@ -29,7 +29,7 @@ class App extends Component {
         <div>
           <img src={logo} className="App-logo" alt="logo" />
         </div>
-        <div style={{marginLeft:20+'px'}}>
+        <div style={{marginLeft:40+'px'}}>
           <AppBar handleMenuItemClick={this.handleMenuItemClick}/>
         </div>
         <div>
@@ -37,7 +37,7 @@ class App extends Component {
         </div>
         <div className='footerDiv'>
           <hr/>
-          <span><a href='#'>Contact Us</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='#'>Terms of Use</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&copy; Microsoft</span>
+          <span><a href='#'>Contact Us</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='#'>Terms of Use</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&copy; Snyppets</span>
           <hr/>
         </div>
       </div>
